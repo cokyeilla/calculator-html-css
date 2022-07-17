@@ -1,0 +1,21 @@
+#nav .c{
+    height: 80px;
+    background-color: gray;
+    font-size: 30px;
+}
+.a{
+    background-color: antiquewhite;
+    height: 80px;
+}
+.row{
+    height: 80px;
+    background-color: azure;
+}
+.row .x-ter{
+    background-color: orange;
+    height: 80px;
+}
+body{
+    margin-top: 100px;
+   
+}
